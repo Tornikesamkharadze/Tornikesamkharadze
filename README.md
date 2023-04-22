@@ -1,7 +1,5 @@
 # გამარჯობა <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
 
-# It doesn't matter how slowly you go, as long as you don't stop
-
 Hi, I'm Tornike (●'◡'●) 
 
 ## About Me
@@ -17,3 +15,4 @@ Hi, I'm Tornike (●'◡'●)
 **- 📧 Tornikesamkharadzee@gmail.com** <br> <br>
 **- 🔗 <a href="https://www.linkedin.com/in/tornike--samkharadze/" target="_blank">LinkedIn</a>** <br><br>
 
+# It doesn't matter how slowly you go, as long as you don't stop
