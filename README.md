@@ -14,5 +14,9 @@ Hello! My name is Tornike (●'◡'●)
 
 # Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60" height="60">
 
-- 📧 <span style="font-size: 25px;">Tornikesamkharadzee@gmail.com</span> <br> <br>
-- 🔗 <a href="https://www.linkedin.com/in/tornike--samkharadze/" target="_blank">LinkedIn</a>
+- 📧 Tornikesamkharadzee@gmail.com <br> <br>
+- 🔗 <a href="https://www.linkedin.com/in/tornike--samkharadze/" target="_blank">LinkedIn</a> <br><br>
+
+- <span style="font-size: 25px;">📧 Tornikesamkharadzee@gmail.com</span> <br> <br>
+- <span style="font-size: 25px;"><a href="https://www.linkedin.com/in/tornike--samkharadze/" target="_blank">LinkedIn</a></span>
+
