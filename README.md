@@ -1,6 +1,6 @@
 # გამარჯობა <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
 
-# It doesn't matter how slowly you go, as long as you don't stop
+**It doesn't matter how slowly you go, as long as you don't stop**
 
 Hello! My name is Tornike (●'◡'●) 
 
