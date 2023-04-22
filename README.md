@@ -12,7 +12,7 @@ Hello! My name is Tornike (●'◡'●)
 • 🎬 Planning to become React + Node.js fullstack <br>
 • 💬 I'm open for job opportunities aswell as project collabs <br>
 
-Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
+Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="30" height="30">
 
 - 📧 Tornikesamkharadzee@gmail.com
 - 🔗 LinkedIn
