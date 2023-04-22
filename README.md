@@ -2,7 +2,7 @@
 
 # It doesn't matter how slowly you go, as long as you don't stop
 
-Hello! My name is Tornike (●'◡'●) 
+Hi, I'm Tornike (●'◡'●) 
 
 ## About Me
 
