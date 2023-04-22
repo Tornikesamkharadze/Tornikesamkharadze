@@ -4,7 +4,7 @@ Hello! My name is Tornike (●'◡'●) <img src="https://raw.githubusercontent.
 
 About Me
 
-📖 I’m self learning developer focused on Front-End
+.📖 I’m self learning developer focused on Front-End
 👨‍💻 I’m experienced with Javascript, React, HTML&CSS, Styled-Components
 🏠 Based in Georgia, Tbilisi
 🎬 Planning to become React + Node.js fullstack
