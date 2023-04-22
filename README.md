@@ -2,7 +2,7 @@
 
 # It doesn't matter how slowly you go, as long as you don't stop
 
-Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">! My name is Tornike (●'◡'●) 
+Hello! My name is Tornike (●'◡'●) 
 
 ## About Me
 
