@@ -17,7 +17,3 @@ Hello! My name is Tornike (●'◡'●)
 - 📧 Tornikesamkharadzee@gmail.com <br> <br>
 - 🔗 <a href="https://www.linkedin.com/in/tornike--samkharadze/" target="_blank">LinkedIn</a> <br><br>
 
-- <span style="font-size:25px;">📧 Tornikesamkharadzee@gmail.com</span><br><br>
-- <a href="https://www.linkedin.com/in/tornike--samkharadze/" target="_blank"><span style="font-size:25px;">LinkedIn</span></a>
-
-
