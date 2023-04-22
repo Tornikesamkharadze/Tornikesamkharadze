@@ -1,6 +1,6 @@
 # გამარჯობა <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
 
-Hi, I'm Tornike (●'◡'●) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgGacgejHh-vARFllrOTBn7CwAXzdrOJFJlA&usqp=CAU" width="30" height="30">
+Hi, I'm Tornike (●'◡'●) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgGacgejHh-vARFllrOTBn7CwAXzdrOJFJlA&usqp=CAU" width="30" height="30"  border-radius="50%">
 
 ## About Me
 
