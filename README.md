@@ -15,7 +15,4 @@ Hello! My name is Tornike (●'◡'●)
 # Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60" height="60">
 
 - 📧 Tornikesamkharadzee@gmail.com
-- 🔗 <a href="https://www.linkedin.com/in/tornike--samkharadze/" target="_blank">LinkedIn</a> <br>
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/tornike--samkharadze/){:onclick="window.open(this.href,'_blank'); return false;"} to learn more about my experience and skills.
-
-
+- 🔗 <a href="https://www.linkedin.com/in/tornike--samkharadze/" target="_blank">LinkedIn</a>
