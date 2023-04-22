@@ -1,10 +1,10 @@
 # Tornike-Samkharadze
 
-# გამარჯობა <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
+## გამარჯობა <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
 
 Hello! My name is Tornike (●'◡'●) 
 
-# About Me
+## About Me
 
 • 📖 I’m self learning developer focused on Front-End <br>
 • 👨‍💻 I’m experienced with Javascript, React, HTML&CSS, Styled-Components <br>
